@@ -1,4 +1,4 @@
-# C Programming Course
+# C Programming
 
 This repository contains all the C programming code I worked on during my first year of BCA. It covers various programming concepts and includes two mini projects that demonstrate practical applications of these concepts.
  **Basics of C**
